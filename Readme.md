@@ -1,4 +1,4 @@
-![](Image%10Assets/TravO_Logo_small.png)
+![](Image%20Assets/TravO_Logo_small.png)
 # XLSolution
 ## TravO
 ### CONTENTS.
@@ -15,8 +15,6 @@
 1. [Contributors](#contributors)
 1. [License](#license)
 1. [Acknowledgment](#acknowledgment)
-
-1. [Video Presentation of the project]
 
 
 ## Short Description
@@ -40,7 +38,7 @@ Thus our App addresses all the major concern of covid19 related precautionary me
 An all-encompassing solution that addresses all the stake holders. That is, the user, the public transport authorities and the government. For the user, it makes the journey convenient, comfortable and safe and also encourages them to travel with pride as in a hired taxi. It addresses issues of social distancing, reducing customer touch points, and hassles of conventional travel. For the Public Transport Authorities, it encourages them to embrace an Intelligent DemandDriven, predictive architecture, that makes their business economically feasible, fascinating and futuristic. Finally, in the process, it will have a positive impact on economic growth as it streamlines travel bottlenecks and also equips the government to access database of travellers for contract tracing and other investigations. 
 
 ## Demo Video
-[![Watch the video](Image%10Assets/VideoAsset.png)](https://www.youtube.com/playlist?list=PL6h0HSpXA_3TaeRtsHNE5uTjnQ9lYkVCC)
+[![Watch the video](Image%20Assets/VideoAsset.png)](https://www.youtube.com/playlist?list=PL6h0HSpXA_3TaeRtsHNE5uTjnQ9lYkVCC)
 
 ## Project Prototype
 ![Prototype Link](https://www.figma.com/proto/P5KugRilNUIPm34KCnlXDC/xlsol?node-id=2%3A6&scaling=scale-down)
@@ -56,7 +54,7 @@ The aim of this prototype is only for understanding the structure and architectu
 It is not a production level or "ready-to-go" product. 
 
 ## The Design Flow
-![Video transcription/translation app](Image%10Assets/DesignFlow.png)
+![Video transcription/translation app](Image%20Assets/DesignFlow.png)
 1.
 2.
 3.
@@ -91,7 +89,7 @@ Contributors who have actively contributed to the success of the project
 ## License
 This project is licensed under the Apache 2 License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
+## Acknowledgment
 * Project Submission for IBM : [Call For Code 2020](https://developer.ibm.com/callforcode/).
 
 
