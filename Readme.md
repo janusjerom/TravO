@@ -42,7 +42,9 @@ An all-encompassing solution that addresses all the stake holders. That is, the 
 
 ## Project Prototype
 [Prototype Link](https://www.figma.com/proto/P5KugRilNUIPm34KCnlXDC/xlsol?node-id=2%3A6&scaling=scale-down)
+
 We created our prototype using Figma: Prototyping Tool.
+
 **User Guide** : 
 This prototype will be visible as same as any Android application.
 **If you are feeling difficulty in navigating through the screens.**
@@ -68,7 +70,7 @@ It is not a production level or "ready-to-go" product.
 [Click to view the contents](https://github.com/janusjerom/TravO/blob/master/Project%20Report/TravO%20-%20Project%20Report.pdf)
 
 ## PPT of the project
-[Click to view the content](//content link)
+[Click to view the content](https://github.com/janusjerom/TravO/tree/master/Project%20-%20TravO%20Presentation)
 
 ## Getting Started
 1. This is an Android Application.
@@ -77,7 +79,7 @@ It is not a production level or "ready-to-go" product.
 4. Build and Run the application.
 
 ## Contributing
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](Contributing.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Contributors
 Contributors who have actively contributed to the success of the project
