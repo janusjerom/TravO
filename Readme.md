@@ -57,11 +57,8 @@ It is not a production level or "ready-to-go" product.
 
 ## The Design Flow
 ![Video transcription/translation app](https://github.com/janusjerom/TravO/blob/master/Image%20Assets/DesignFlow.jpg)
-1. USER
-2. DATABASE
-3. API
-4. PROCESSING
-5. RESULT
+
+We mapped the learning from the prototype to a design flow.
 
 ## Source code of the project
 [Click to view the source code](https://github.com/janusjerom/TravO/tree/master/src%20-%20TravO)
