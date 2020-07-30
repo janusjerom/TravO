@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">TravO</string>
+    <string name="sample_text">Sample</string>
+    <string name="search_for_more">Search another Bus availability</string>
+    <string name="to">To</string>
+    <string name="from">From</string>
+    <string name="check_availability">Check Availability</string>
+    <string name="seats_12">SEATS 12</string>
+    <string name="_9_00_10_00">9.00 &#8212; 10.00</string>
+    <string name="bus_name">BUS NAME</string>
+    <string name="abcd">ABCD</string>
+    <string name="important_home_message">important home message</string>
+    <string name="search_image">Search image</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="logoimage">LogoImage</string>
+    <string name="register">Register</string>
+    <string name="registerCap">REGISTER</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="sign_up_now">Sign up Now !</string>
+    <string name="dont_have_an_account">Dont have an account</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="login">login</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="status">Status</string>
+    <string name="history">History</string>
+    <string name="logout">Logout</string>
+    <string name="communicate">Communicate</string>
+    <string name="share">Share</string>
+    <string name="send">Send</string>
+    <string name="book_now">BOOK NOW</string>
+    <string name="qr_code">qr code</string>
+    <string name="booked_ticket">BOOKED TICKET</string>
+    <string name="bus_name_">Bus Name</string>
+    <string name="bus_time">Bus Time</string>
+    <string name="cancel">Cancel</string>
+    <string name="refresh">Refresh</string>
+    <string name="not_found_text">Not found</string>
+    <string name="clear">Clear</string>
+    <string name="settings">Settings</string>
+    <string name="scan_code">scan_code</string>
+    <string name="sodar_scan">sodar_scan</string>
+    <string name="choose_date">CHOOSE DATE</string>
+    <string name="buses_can_only_booked_1_week_in_advance">* buses can only booked 1 week in advance</string>
+    <string name="license">License</string>
+    <string name="textview">TextView</string>
+    <string name="duration">Duration</string>
+    <string name="distance">Distance</string>
+    <string name="cost">Cost</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="payement_gateway">payement gateway</string>
+    <string name="confirm_payment">Confirm payment</string>
+    <string name="All_Transanction">All Transactions</string>
+
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/sodar_icon"
+        android:title="@string/sodar_scan"
+        android:icon="@drawable/sodar_scan"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/qrcode_icon"
+        android:title="@string/scan_code"
+        android:icon="@drawable/qrcode_icon"
+        app:showAsAction="ifRoom"/>
+
+
+
+
+
+</menu>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "564269462429",
+    "firebase_url": "https://travo-17ff4.firebaseio.com",
+    "project_id": "travo-17ff4",
+    "storage_bucket": "travo-17ff4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564269462429:android:0f858063415c13f769b574",
+        "android_client_info": {
+          "package_name": "com.xlsol.travo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564269462429-2qskq5am5mudrhe8bo5tv9pd19r0l1i1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-C8KsVBUvcvBiwKZjwaopeDAoeRPE2EI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564269462429-2qskq5am5mudrhe8bo5tv9pd19r0l1i1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
