@@ -38,7 +38,7 @@ Thus our App addresses all the major concern of covid19 related precautionary me
 An all-encompassing solution that addresses all the stake holders. That is, the user, the public transport authorities and the government. For the user, it makes the journey convenient, comfortable and safe and also encourages them to travel with pride as in a hired taxi. It addresses issues of social distancing, reducing customer touch points, and hassles of conventional travel. For the Public Transport Authorities, it encourages them to embrace an Intelligent DemandDriven, predictive architecture, that makes their business economically feasible, fascinating and futuristic. Finally, in the process, it will have a positive impact on economic growth as it streamlines travel bottlenecks and also equips the government to access database of travellers for contract tracing and other investigations. 
 
 ## Demo Video
-[![Watch the video](Image%20Assets/VideoAsset.png)](https://www.youtube.com/playlist?list=PL6h0HSpXA_3TaeRtsHNE5uTjnQ9lYkVCC)
+[![Watch the video](https://github.com/janusjerom/TravO/blob/master/Image%20Assets/VideoAsset.PNG)](https://www.youtube.com/playlist?list=PL6h0HSpXA_3TaeRtsHNE5uTjnQ9lYkVCC)
 
 ## Project Prototype
 ![Prototype Link](https://www.figma.com/proto/P5KugRilNUIPm34KCnlXDC/xlsol?node-id=2%3A6&scaling=scale-down)
@@ -54,12 +54,12 @@ The aim of this prototype is only for understanding the structure and architectu
 It is not a production level or "ready-to-go" product. 
 
 ## The Design Flow
-![Video transcription/translation app](Image%20Assets/DesignFlow.png)
-1.
-2.
-3.
-4.
-5.
+![Video transcription/translation app](https://github.com/janusjerom/TravO/blob/master/Image%20Assets/DesignFlow.jpg)
+1. USER
+2. DATABASE
+3. API
+4. PROCESSING
+5. RESULT
 
 ## Source code of the project
 [Click to view the source code](https://github.com/janusjerom/TravO/tree/master/src%20-%20TravO)
