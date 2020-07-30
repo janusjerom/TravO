@@ -41,7 +41,7 @@ An all-encompassing solution that addresses all the stake holders. That is, the 
 [![Watch the video](https://github.com/janusjerom/TravO/blob/master/Image%20Assets/VideoAsset.PNG)](https://www.youtube.com/playlist?list=PL6h0HSpXA_3TaeRtsHNE5uTjnQ9lYkVCC)
 
 ## Project Prototype
-![Prototype Link](https://www.figma.com/proto/P5KugRilNUIPm34KCnlXDC/xlsol?node-id=2%3A6&scaling=scale-down)
+[Prototype Link](https://www.figma.com/proto/P5KugRilNUIPm34KCnlXDC/xlsol?node-id=2%3A6&scaling=scale-down)
 We created our prototype using Figma: Prototyping Tool.
 **User Guide** : 
 This prototype will be visible as same as any Android application.
